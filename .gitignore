@@ -35,3 +35,9 @@ output/
 
 # DATA
 /DATA
+
+# MLflow local database
+mlflow.db
+
+# MLflow runs folder
+mlruns/

@@ -15,6 +15,7 @@ api.upload_file(
     repo_id="MouniaT/FastAPI_GetAround",
     repo_type="space"
 )
+print("Model loaded")
 
 # Upload the processor
 api.upload_file(
@@ -23,3 +24,4 @@ api.upload_file(
     repo_id="MouniaT/FastAPI_GetAround",
     repo_type="space"
 )
+print("Processor loaded")

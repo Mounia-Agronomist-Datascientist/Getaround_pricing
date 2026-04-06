@@ -1,6 +1,7 @@
 # Python Files
 __pycache__/
 .pytest_cache/
+.pyc
 *.py[cod]
 *$py.class
 *.so
@@ -42,3 +43,16 @@ mlflow.db
 
 # MLflow runs folder
 mlruns/
+
+# Binary files
+.joblib
+.pkl
+
+# Intermediate data
+.npy
+
+# Upload to HF script
+load_binary_files_to_HF.py
+
+# Models and preprocessing
+MODELS/

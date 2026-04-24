@@ -19,7 +19,7 @@ print("Model loaded")
 
 # Upload the processor
 api.upload_file(
-    path_or_fileobj="API/MODELS/preprocessing_pipeline.pkl",
+    path_or_fileobj="MODELS/preprocessing_pipeline.pkl",
     path_in_repo="MODELS/preprocessing_pipeline.pkl",
     repo_id="MouniaT/FastAPI_GetAround",
     repo_type="space"

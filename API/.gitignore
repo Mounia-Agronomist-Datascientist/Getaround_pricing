@@ -1,0 +1,5 @@
+MODELS/*.joblib
+MODELS/*.pkl
+.pkl
+.joblib
+.gitattributes

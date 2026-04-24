@@ -45,8 +45,8 @@ mlflow.db
 mlruns/
 
 # Binary files
-.joblib
-.pkl
+*.joblib
+*.pkl
 
 # Intermediate data
 .npy
